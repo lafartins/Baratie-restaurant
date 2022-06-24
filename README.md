@@ -1,2 +1,2 @@
-# Baratie-restaurant
-Site com efeito parallax para o restaurante fictício Baratie.
+# Baratie
+## Site com efeito parallax para o restaurante fictício Baratie.
