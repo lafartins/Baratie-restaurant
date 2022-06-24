@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    border-radius: 8px;
+}
+header{
+    
+    min-height: 150px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-image: linear-gradient(to top, rgb(3, 202, 163), white);
+}
+nav{
+    display: flex;
+    background-image: linear-gradient(to bottom, rgb(3, 202, 163));
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui,-apple-system, Helvetica, Arial, sans-serif;
+    height: 8vh;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding-left: 70px;
+}
+a:hover{
+    border-radius: 10px;
+    border: 5px solid red;
+    display: flex;
+    background-color: rgba(0, 255, 140, 0.743);
+    color: black;
+    cursor: pointer;
+    padding: 15px 23px 14px;
+}
+.linha {
+	border:3px solid #fa0909;
+}
