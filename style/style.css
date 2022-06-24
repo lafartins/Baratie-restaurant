@@ -120,3 +120,19 @@ p{
     font-family: 'Amatic SC', cursive;
     font-size: 3rem;
 }
+.sanji{
+    background-image: url(/style/sobremesa.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
+.sanji p{
+    background-color: rgba(255, 0, 76, 0.477);
+    color: white;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 3rem;
+}
