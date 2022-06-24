@@ -42,3 +42,57 @@ a:hover{
 .linha {
 	border:3px solid #fa0909;
 }
+body{
+    min-height: 100vh;
+    background-color: white;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
+
+.texto1{
+    background-image: linear-gradient(to bottom, rgb(3, 84, 161), rgba(4, 247, 142, 0.745));
+    color: white;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    text-align: center;
+    border-top: 3px solid red;
+    border-bottom: 4px solid red;
+}
+
+.texto1 h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 3rem;
+}
+.texto1 p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 2rem;
+    padding-bottom: 0px;
+}
+.flag img{
+    width: 200px;
+    height: 200px;
+    padding-top: 30px;
+    
+}
+
+.baratie1{
+    background-image: url(/style/one-piece-baratie-postcover.jpg);
+    background-color: rgb(127, 197, 255);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}   
