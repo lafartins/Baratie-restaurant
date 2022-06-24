@@ -96,3 +96,9 @@ p{
     padding-top: 30vh;
     padding-bottom: 30vh;
 }   
+.cozinheiros{
+    background-image: url(/style/cozinheiros.png);
+    background-attachment: fixed;
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+}
