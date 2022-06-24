@@ -102,3 +102,21 @@ p{
     padding-top: 30vh;
     padding-bottom: 30vh;
 }
+.risoto{
+    background-image: linear-gradient(to bottom, rgba(4, 247, 142, 0.745), rgb(255, 205, 4));
+    color: white;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    text-align: center;
+    border-top: 3px solid red;
+    border-bottom: 4px solid red;
+}
+.risoto h1{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 3rem;
+}
